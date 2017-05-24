@@ -13,7 +13,6 @@
     <modules>
         <!-- Add here the paths of all modules (e.g. <module>modules/MyModule</module>) -->
         <module>SpectralClustering</module>
-        <module>../SpectralSpatialisation</module>
     </modules>
     
     <!-- Properties -->
